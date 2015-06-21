@@ -1,6 +1,7 @@
 # PowerLog
 Log on the time and the environment temperature automatically when powering on your computer.
 
+This program is by Octopus and under the GPL license.
 It has been compiled on Fedora 22 64bit.
 
 Installation:
